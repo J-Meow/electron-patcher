@@ -1,11 +1,11 @@
 {
-  "name": "electron-patcher",
-  "version": "1.0.0",
-  "description": "Adds code to Electron apps by editing their app.asar file",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "name": "electron-patcher",
+    "version": "1.0.0",
+    "description": "Adds code to Electron apps by editing their app.asar file",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
 }
